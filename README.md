@@ -1,2 +1,2 @@
 # lecture-git
-Delete after use ** is this bold? **
+Delete after use **is this bold?**
